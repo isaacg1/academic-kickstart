@@ -39,3 +39,5 @@ I am advised by [Mor Harchol-Balter](https://www.cs.cmu.edu/~harchol/).
 My research is in queueing theory, scheduling, and performance modeling.
 
 In the past, I have researched the complexity theory of abstract motion planning with [Erik Demaine](http://erikdemaine.org/) and information theoretic cryptography with [Vinod Vaikuntanathan](https://people.csail.mit.edu/vinodv/).
+
+{{% staticref "files/cv.pdf" %}}Download my CV{{% /staticref %}}
